@@ -1,0 +1,92 @@
+{   
+    "projects" : [
+      
+        {
+            
+            "title": "Covid-19 Control using Computer Vision",
+            "bodyText": "- An intelligent system to mitigate the spread of covid 19 by incorporating a real-time face mask and social distancing detector using deep learning and computer vision. \n - The system detects face masks using surveillance videos at entrances and allows or rejects entrance. \n - The system also monitors social distancing in public areas e.g. shopping malls, banks, hospitals, etc. and send alerts to the authorities in place.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/GraceWangui/covid-19-control"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "Computer Vision",
+                "Machine Learning"
+            ]
+        },
+        {
+            "title": "House Price Prediction",
+            "bodyText": "- A data science project to analyze and visualize data and build a model to predict house prices.\n - Allows stakeholders, buyers and house builders to know which attributes impact the house price.\n - The project aims to answer the question of how some variables affect the change of property’s prices over a long period of time \n - Random Forest and Linear Regression models used.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/GraceWangui/House-Price-Prediction"
+                }
+            ],
+            "tags" : [
+                "Jupyter Notebooks",
+                "Python",
+                "Machine Learning",
+                "Data Visualization"
+            ]
+        },
+ 
+    
+        {
+            "title": "Hospital Management System",
+            "bodyText": "- A system that to make health care services and information accessible to users (patients) with the aim of improving health care services delivery in Kenya. \n - Enhances efficiency and simplicity in booking of doctors’ appointments. \n - Provide information to users (patients) on hospital’s information e.g working hours and location.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/GraceWangui/HMS"
+                }
+            ],
+            "tags" : [
+                "CSS",
+                "PHP",
+                "TSQL"
+            ]
+        },
+        {
+            "title": "Spam Text Classification",
+            "bodyText": "- Spam detection is one of the major applications of Machine Learning in the interwebs today. Pretty much all of the major email service providers have spam detection systems built in and automatically classify such mail as 'Junk Mail.\n - In this project, I have explored and compared text preprocessing and feature selection methods among word count, character count and bag of words. \n - Logistic regression classifier is used to detect ham or spam SMS messages.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/GraceWangui/Spam-Text-Classification"
+                }
+            ],
+            "tags" : [
+                "Jupyter Notebooks",
+                "Python",
+                "Machine Learning",
+                "Data Visualization"
+            ]
+        },
+
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Portfolio",
+            "bodyText": "- My Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": ""
+                },
+                {
+                    "text": "Live",
+                    "href": ""
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        }
+    ]
+}

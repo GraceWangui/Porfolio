@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/grace-wangui-274504155/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/GraceWangui"
+        },
+        {
+            "network" : "medium",
+            "href": "https://medium.com/@quigrace99"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:quigrace99@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Sept 2017 - Sept 2021",
+            "cardTitle": "Bsc Computer Science",
+            "cardSubtitle":"University of Nairobi, Kenya",
+            "cardDetailedText": "First Class Honours",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Feb 2013 - Nov 2016",
+            "cardTitle": "High School",
+            "cardSubtitle":"Bahati Girls High Sch, Kenya",
+            "cardDetailedText": "Grade A-",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+    ]
+}

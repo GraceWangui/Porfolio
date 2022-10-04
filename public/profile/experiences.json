@@ -1,0 +1,37 @@
+{
+    "experiences": [
+        {
+            "title": "Backend Software Engineer",
+            "subtitle": "Churpy Inc",
+            "workType": "Full-time",
+            "workDescription": [
+                "Implemented integration of on-prem and cloud ERPs using Django, into the existing system to support core business operations resulting in real-time account reconciliations.",
+                "Integrated Mpesa-Daraja API to the core system enabling reconciliation of mobile payments",
+                "Coordinated with technical lead in the design of new features and applications to ensure efficiency in implementation. This resulted in a 20% increase in customer satisfaction"
+            ],
+            "dateText": "11/2021 – Present"
+        },
+        {
+            "title": "Junior Software Engineer, Quality Assurance Engineer",
+            "subtitle": "Eneza Telcoms",
+            "workType": "Contract",
+            "workDescription": [
+                "Created detailed, comprehensive and well-structured test plans and test cases using automation tools that increased efficiency and reduced new project rollout time by one week",
+                "Reviewed requirements, specifications and technical design documents and liaised with internal teams (developers and product managers) to provide timely and meaningful feedback",
+                "Participated in writing scalable code in Python and PostgresSQL with a team of 2 developers for a SACCO to achieve automation of their internal processes"
+            ],
+            "dateText": "05/2021 – 10/2021"
+        },
+        {
+            "title": "Intern Software Engineer",
+            "subtitle": "Savannah Informatics",
+            "workType": "Internship",
+            "workDescription": [
+                "Built, deployed and maintained microservices in Golang that resulted in more efficient use of code and underlying infrastructure. This was done in teams where each person was assigned one microservice",
+                "Federated the built services in graphql to combine multiple micro-services into a single API consequently allowing all teams to work independently. This made the services easier to scale and deploy",
+                "Resolved lint and test bugs on multiple services to ensure consistency in codebase hence faster development"
+            ],
+            "dateText": "08/2020 – 12/2020"
+        }
+    ]
+}
