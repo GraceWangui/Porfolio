@@ -38,7 +38,7 @@ function Home() {
       <div style={styles.mainContainer}>
         <h1 style={styles.nameStyle}>{data?.name}</h1>
         <div style={{ flexDirection: 'row' }}>
-          <h2 style={styles.inlineChild}>I&apos;m&nbsp;</h2>
+          <h2 style={styles.inlineChild}>I&apos;m a&nbsp;</h2>
           <Typewriter
             options={{
               loop: true,
