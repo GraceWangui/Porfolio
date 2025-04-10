@@ -1,0 +1,40 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Personal Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Undergrad Thesis",
+            "href": "https://drive.google.com/file/d/1RQmxaHMw76OvzPbgAO-D239uBEnvcx8B/view?usp=drive_link",
+            "type": "link"
+        }
+
+    ]
+
+}

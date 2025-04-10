@@ -1,0 +1,48 @@
+{
+    "experiences": [
+        {
+            "title": "Data Analyst and Website Administrator",
+            "subtitle": "University of Glasgow",
+            "workType": "Part-time",
+            "workDescription": [
+                "Analyzed participant data from 10,000+ workshop attendees to uncover key demographics and engagement trends, driving targeted advertising strategies and personalized website and social media content—contributing to a 25% increase in student sign-ups across programs.",
+                "Implemented performance and accessibility improvements using modern web development best practices, reducing page load times by 30% and improving SEO rankings.",
+                "Strengthened industry partnerships by engaging with tech companies through market research and networking, identifying collaboration opportunities that led to 2 new partnerships and internship placements for alumni."
+            ],
+            "dateText": "12/2024 – Present"
+        },
+        {
+            "title": "Software Development Engineer",
+            "subtitle": "Kenya Commercial Bank",
+            "workType": "Full-time",
+            "workDescription": [
+                "Collaborated on the design and execution of the 'Hustler Fund' project, facilitating access to approximately Sh30 billion in loans for 20.2 million Kenyans. This initiative actively empowers MSMEs and fosters entrepreneurship.",
+                "Part of the development team behind the transformative QR code initiative that elevated digital payments and promoted interoperability across various payment service providers in Kenya.",
+                "Implemented a goal-savings product that boosted the bank’s deposits by 20% and strengthened lending capacity for investments and daily operations."
+            ],
+            "dateText": "01/2023 – 09/2024"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Churpy Inc",
+            "workType": "Full-time",
+            "workDescription": [
+                "Implemented integration of on-prem and cloud ERPs using Django, into the existing system to support core business operations resulting in real-time account reconciliations.",
+                "Integrated Mpesa-Daraja API to the core system enabling reconciliation of mobile payments",
+                "Coordinated with technical lead in the design of new features and applications to ensure efficiency in implementation. This resulted in a 20% increase in customer satisfaction"
+            ],
+            "dateText": "01/2021 – 12/2022"
+        },
+        {
+            "title": "Intern Software Engineer",
+            "subtitle": "Savannah Informatics",
+            "workType": "Internship",
+            "workDescription": [
+                "Built, deployed and maintained microservices in Golang that resulted in more efficient use of code and underlying infrastructure. This was done in teams where each person was assigned one microservice",
+                "Federated the built services in graphql to combine multiple micro-services into a single API consequently allowing all teams to work independently. This made the services easier to scale and deploy",
+                "Resolved lint and test bugs on multiple services to ensure consistency in codebase hence faster development"
+            ],
+            "dateText": "08/2020 – 12/2020"
+        }
+    ]
+}
