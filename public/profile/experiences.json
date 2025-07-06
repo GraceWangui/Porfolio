@@ -1,7 +1,7 @@
 {
     "experiences": [
         {
-            "title": "Data Analyst and Website Administrator",
+            "title": "Data Scientist",
             "subtitle": "University of Glasgow",
             "workType": "Part-time",
             "workDescription": [
@@ -12,8 +12,8 @@
             "dateText": "12/2024 – Present"
         },
         {
-            "title": "Software Development Engineer",
-            "subtitle": "Kenya Commercial Bank",
+            "title": "Full Stack Software Engineer",
+            "subtitle": "Barclays Bank",
             "workType": "Full-time",
             "workDescription": [
                 "Collaborated on the design and execution of the 'Hustler Fund' project, facilitating access to approximately Sh30 billion in loans for 20.2 million Kenyans. This initiative actively empowers MSMEs and fosters entrepreneurship.",
