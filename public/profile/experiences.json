@@ -1,19 +1,19 @@
 {
     "experiences": [
         {
-            "title": "Data Scientist",
+            "title": "Analyst & Developer",
             "subtitle": "University of Glasgow",
             "workType": "Part-time",
             "workDescription": [
                 "Analyzed participant data from 10,000+ workshop attendees to uncover key demographics and engagement trends, driving targeted advertising strategies and personalized website and social media content—contributing to a 25% increase in student sign-ups across programs.",
                 "Implemented performance and accessibility improvements using modern web development best practices, reducing page load times by 30% and improving SEO rankings.",
-                "Strengthened industry partnerships by engaging with tech companies through market research and networking, identifying collaboration opportunities that led to 2 new partnerships and internship placements for alumni."
+                "Ran continuous A/B tests to optimize UI components, enhancing click-through rates and boosting user satisfaction scores by 40%."
             ],
             "dateText": "12/2024 – Present"
         },
         {
             "title": "Full Stack Software Engineer",
-            "subtitle": "Barclays Bank",
+            "subtitle": "Financial Institutions",
             "workType": "Full-time",
             "workDescription": [
                 "Collaborated on the design and execution of the 'Hustler Fund' project, facilitating access to approximately Sh30 billion in loans for 20.2 million users. This initiative actively empowers MSMEs and fosters entrepreneurship.",
