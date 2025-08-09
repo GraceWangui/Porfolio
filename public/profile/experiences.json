@@ -9,7 +9,7 @@
                 "Implemented performance and accessibility improvements using modern web development best practices, reducing page load times by 30% and improving SEO rankings.",
                 "Ran continuous A/B tests to optimize UI components, enhancing click-through rates and boosting user satisfaction scores by 40%."
             ],
-            "dateText": "12/2024 – Present"
+            "dateText": ""
         },
         {
             "title": "Full Stack Software Engineer",
@@ -20,7 +20,7 @@
                 "Part of the development team behind the transformative QR code initiative that elevated digital payments and promoted interoperability across various payment service providers in Kenya.",
                 "Implemented a goal-savings product that boosted the bank’s deposits by 20% and strengthened lending capacity for investments and daily operations."
             ],
-            "dateText": "01/2023 – 09/2024"
+            "dateText": ""
         },
         {
             "title": "Software Engineer",
@@ -31,7 +31,7 @@
                 "Integrated Mpesa-Daraja API to the core system enabling reconciliation of mobile payments",
                 "Coordinated with technical lead in the design of new features and applications to ensure efficiency in implementation. This resulted in a 20% increase in customer satisfaction"
             ],
-            "dateText": "01/2021 – 12/2022"
+            "dateText": ""
         },
         {
             "title": "Intern Software Engineer",
@@ -42,7 +42,7 @@
                 "Federated the built services in graphql to combine multiple micro-services into a single API consequently allowing all teams to work independently. This made the services easier to scale and deploy",
                 "Resolved lint and test bugs on multiple services to ensure consistency in codebase hence faster development"
             ],
-            "dateText": "08/2020 – 12/2020"
+            "dateText": ""
         }
     ]
 }
