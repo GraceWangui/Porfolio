@@ -79,6 +79,13 @@ function Experience(props) {
                         </h5>
                         )}
                       </div>
+                      <Button
+                            style={styles.showMoreStyle}
+                            variant={theme.bsSecondaryVariant}
+                            onClick={() => setShowMore(true)}
+                          >
+                            more under construction 🚧
+                      </Button>
                       <ul style={styles.ulStyle}>
                         {item.workDescription.map((point) => (
                           <div key={point}>
